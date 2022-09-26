@@ -1,3 +1,5 @@
 Sample creation
 
 Edit this text
+
+Made changes in the child branch
